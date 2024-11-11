@@ -1,0 +1,38 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.pdb
+*.log
+*.db
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# TensorFlow/Keras model files
+*.h5
+*.keras
+
+# IDE and editor specific files
+.vscode/
+.idea/
+
+# Operating System specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# notes
+notes
